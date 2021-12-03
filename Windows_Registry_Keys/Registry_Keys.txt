@@ -1,0 +1,135 @@
+#Keys that apply to creation of new users
+
+USERS\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\Run
+USERS\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\RunOnce
+
+USERS\.DEFAULT\Software\Microsoft\Office\Outlook\Addins
+USERS\.DEFAULT\Software\Microsoft\Office\PowerPoint\Addins
+USERS\.DEFAULT\Software\Microsoft\Office\Word\Addins
+USERS\.DEFAULT\Software\Microsoft\Internet Explorer\UrlSearchHooks
+
+HKEY_CURRENT_USER\Software \ALPS ALPs Touchpad
+HKEY_CURRENT_USER\Software\Classes\CLSID Watch for NEW Extensions New
+HKEY_CURRENT_USER\Software\Classes\exefile\shell\runas\command\isolatedCommand
+HKEY_CURRENT_USER\Software\Classes\mscfile\shell\open\command
+HKEY_CURRENT_USER\Software\Google\Chrome\PreferenceMACs\Default\extensions.settings New
+HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\System\Scripts Logon/Logoff
+HKEY_CURRENT_USER\Software\Synaptics Synaptics Touchpad
+HKEY_CURRENT_USER\Software \Microsoft\CTF
+HKEY_CURRENT_USER\Software \Microsoft\MultiMedia
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\App Paths\* If exists or create it
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Control Panel\Cpls New
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Cached
+HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant New
+HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Word 11.0,12.0,14.0,15.0
+HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\Addins
+HKEY_CURRENT_USER\Software\Microsoft\Office\PowerPoint\Addins
+HKEY_CURRENT_USER\Software\Microsoft\Office\Word\Addins
+HKEY_CURRENT_USER\Software\Microsoft\Office Test\ If exists or create it
+HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\UrlSearchHooks
+HKEY_CURRENT_USER\Software\Nico Mak Computing WinZip
+HKEY_CURRENT_USER\Software\Classes\CLSID\{b5f8350b-0548-48b1-a6ee-88bd00b4a5e7}
+HKEY_CURRENT_USER\Software\Classes\Wow6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer
+HKEY_CURRENT_USER\Software\WinRAR WinRAR
+
+#All Users - Key Only
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Accessibility\ATs
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Lsa
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SecurityProviders\SecurityProviders
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SecurityProviders\SecurityProviders\WDigest
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Terminal Server\AddIns
+
+#All Users - This key and Sub Keys
+
+HKEY_LOCAL_MACHINE\Software\Classes\*\ShellEx
+HKEY_LOCAL_MACHINE\Software\Classes\AllFileSystemObjects\ShellEx
+HKEY_LOCAL_MACHINE\Software\Classes\Directory\ShellEx
+HKEY_LOCAL_MACHINE\Software\Classes\Folder\ShellEx
+HKEY_LOCAL_MACHINE\Software\Classes\Protocols\Filter
+HKEY_LOCAL_MACHINE\Software\Classes\Protocols\Handler
+HKEY_LOCAL_MACHINE\Software\Classes\CLSID Watch for NEW Extensions New
+HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{083863F1-70DE-11d0-BD40-00A0C911CE86}\Instance
+HKEY_LOCAL_MACHINE\Software\Classes\Htmlfile\Shell\Open\Command
+HKEY_LOCAL_MACHINE\Software\Clients\Mail
+HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework
+HKEY_LOCAL_MACHINE\Software\Microsoft\Active Setup\Installed Components
+HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Toolbar
+HKEY_LOCAL_MACHINE\Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{SIP Guid}
+HKEY_LOCAL_MACHINE\Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{SIP Guid}
+HKEY_LOCAL_MACHINE\Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{SIP Guid}
+HKEY_LOCAL_MACHINE\Software\Microsoft\Office\Outlook\Addins
+HKEY_LOCAL_MACHINE\Software\Microsoft\Office\Excel\Addins
+HKEY_LOCAL_MACHINE\Software\Microsoft\Office\PowerPoint\Addins
+HKEY_LOCAL_MACHINE\Software\Microsoft\Office\Word\Addins
+HKEY_LOCAL_MACHINE\Software\Microsoft\Terminal Server Client
+HKEY_LOCAL_MACHINE\Software\Microsoft\VBA\Monitors
+HKEY_LOCAL_MACHINE\Software\Microsoft\WBEM\ESS Look for new providers
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\RunOnce
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Authentication\Credential Provider Filters
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Authentication\PLAP Providers
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Explorer\TBDEn
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Group Policy\Scripts
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System\
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Shell Extensions
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\AeDebug
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Drivers32
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Font Drivers
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\SystemRestore
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Windows\IconServiceLib
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Windows
+HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\System\Scripts Startup/Shutdown
+HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\PowerShell Audit PowerShell log settings
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\CrashControl
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Session Manager\Environment
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Session Manager\AppCertDlls
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Print\Monitors
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\NetworkProvider\Order
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\StartupPrograms
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\services\NTDS
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\RemoteAccess
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\WinSock2
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\SysmonDrv (If using Sysmon) New
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Session Manager
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Print\Monitors
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\NetworkProvider\Order
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\StartupPrograms
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Classes\*\ShellEx
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Classes\AllFileSystemObjects\ShellEx
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Classes\Directory\ShellEx
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Classes\Folder\ShellEx
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Classes\CLSID\{083863F1-70DE-11d0-BD40-00A0C911CE86}\Instance
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{SIP Guid}
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{SIP Guid}
+HKEY_LOCAL_MACHINE\Software\ Wow6432Node\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{SIP Guid}
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\.NETFramework
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Active Setup\Installed Components
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Office\Outlook\Addins
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Office\Excel\Addins
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Office\PowerPoint\Addins
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Office\Word\Addins
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Run
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\RunOnce
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\AeDebug
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32
+HKEY_LOCAL_MACHINE\Software\ Wow6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+
