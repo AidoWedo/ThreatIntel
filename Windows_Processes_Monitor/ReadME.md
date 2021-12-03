@@ -4,4 +4,4 @@ https://github.com/api0cradle/UltimateAppLockerByPassList
 
 sc.exe is normally noise and has been excluded from this
 
-	
+The Format is a simple txt file for easy import into most SIEM Systems	
